@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %> 
- 
+ <!--Update Student Data-->
 <%
     if(request.getParameter("submit")!= null) {
         //Database URL
