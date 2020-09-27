@@ -1,5 +1,5 @@
 <%@page import="java.sql.*" %> 
- 
+ <!--Delete Student Data-->
 <%
      
         Connection connection;
